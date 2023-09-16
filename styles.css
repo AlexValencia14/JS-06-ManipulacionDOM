@@ -1,0 +1,11 @@
+/*Estilos generales*/
+body{
+    text-align: center;
+}
+
+/*Estilos para mi imagen*/
+
+img{
+    max-width: 100%;
+    height: auto;
+}
